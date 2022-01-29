@@ -20,5 +20,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "author": "ffavfern <96457591+ffavfern@users.noreply.github.com>",
+  "license": "MIT"
 }
